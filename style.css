@@ -50,3 +50,13 @@ body{
   .box li a:hover{
     color: #b9b9b9;
   }
+  .backgnd {
+    background: url(BG.png) no-repeat;
+    background-size: contain;
+    background-position: right bottom;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+  }
